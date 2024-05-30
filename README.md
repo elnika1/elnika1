@@ -11,7 +11,7 @@
 
 - ⚡ Random fact **I'm ex professional athlete ranked 8th in the Europe and 10th in the World**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikoloz-shubladze-a18914268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikoloz-shubladze-a18914268" height="30" width="40" /></a>
 <a href="https://fb.com/nika.shubladze.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nika.shubladze.3" height="30" width="40" /></a>
